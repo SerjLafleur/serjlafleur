@@ -1,4 +1,8 @@
-### Hi, I'm Sergio 👋 
+### Hi, I'm Sergio 👋 👨🏻‍💻
+
+<p align="center" width="300">
+   <img align="center" width="200" src="https://sergiobaltanas.com/wp-content/uploads/2021/08/circle-cropped.png" />
+</p>
 
 ### about me in code
 
