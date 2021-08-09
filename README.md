@@ -4,7 +4,7 @@
     <h3 align="center">¡Hey 👋! Soy SerjLaFleur 👨🏻‍💻</h3>
 </p>
 
-### about me in code
+### About me in code
 
 ```js
 const serjLafleur = {
