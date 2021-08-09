@@ -1,7 +1,7 @@
-### Hi, I'm Sergio 👋 👨🏻‍💻
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://sergiobaltanas.com/wp-content/uploads/2021/08/circle-cropped.png" />
+    <h3 align="center">¡Hey 👋! Soy SerjLaFleur 👨🏻‍💻</h3>
 </p>
 
 ### about me in code
