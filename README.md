@@ -11,6 +11,12 @@ learning: [React-Native],
 <a href="https://twitter.com/SerjLafleur">
   <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://sergiobaltanas.com/wp-content/uploads/2021/08/1491579583-yumminkysocialmedia02_83111.png" />
 </a>
+<a href="https://instagram.com/SerjLafleur">
+  <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://sergiobaltanas.com/wp-content/uploads/2021/08/Instagram_icon-icons.com_66804.png" />
+</a>
+<a href="https://linkedin.com/SerjLafleur">
+  <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://www.linkedin.com/in/sergio-baltanas-montes/" />
+</a>
 
 <!--
 **SerjLafleur/serjlafleur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
