@@ -14,8 +14,8 @@ learning: [React-Native],
 <a href="https://instagram.com/SerjLafleur">
   <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://sergiobaltanas.com/wp-content/uploads/2021/08/Instagram_icon-icons.com_66804.png" />
 </a>
-<a href="https://linkedin.com/SerjLafleur">
-  <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://www.linkedin.com/in/sergio-baltanas-montes/" />
+<a href="https://www.linkedin.com/in/sergio-baltanas-montes/">
+  <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://sergiobaltanas.com/wp-content/uploads/2021/08/linkedin_socialnetwork_17441.png" />
 </a>
 
 <!--
