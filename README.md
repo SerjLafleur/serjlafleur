@@ -9,7 +9,7 @@ learning: [React-Native],
 }
 ```
 <a href="https://twitter.com/SerjLafleur">
-  <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://sergiobaltanas.com/wp-content/uploads/2021/08/1491579583-yumminkysocialmedia02_83111.png" />
 </a>
 
 <!--
