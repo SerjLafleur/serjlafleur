@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Sergio 👋 
+
+```js
+const serjLafleur = {
+pronouns: "he" | "him",
+code: [Javascript, HTML, CSS, Typescript],
+tools: [React, Node, Styled-Components],
+learning: [React-Native],
+}
+```
+<a href="https://twitter.com/SerjLafleur">
+  <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
 
 <!--
 **SerjLafleur/serjlafleur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
