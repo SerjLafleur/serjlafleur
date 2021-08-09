@@ -1,5 +1,7 @@
 ### Hi, I'm Sergio 👋 
 
+### about me in code
+
 ```js
 const serjLafleur = {
 pronouns: "he" | "him",
@@ -8,6 +10,8 @@ tools: [React, Node, MongoDB, Styled-Components],
 learning: [React-Native],
 }
 ```
+
+### You can find me:
 <a href="https://twitter.com/SerjLafleur">
   <img align="left" alt="SerjLaFleur | Twitter" width="20px" src="https://sergiobaltanas.com/wp-content/uploads/2021/08/1491579583-yumminkysocialmedia02_83111.png" />
 </a>
@@ -19,9 +23,8 @@ learning: [React-Native],
 </a>
 
 #### Some stats 
-<a href="https://github.com/serjlafleur/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
+[![serjlafleur's GitHub stats](https://github-readme-stats.vercel.app/api?username=serjlafleur)](https://github.com/serjlafleur/github-readme-stats)
+
 
 <!--
 **SerjLafleur/serjlafleur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
