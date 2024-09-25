@@ -9,7 +9,7 @@
 ```js
 const serjLafleur = {
 pronouns: "he" | "him",
-code: [Javascript, HTML, CSS, Typescript],
+code: [Javascript, HTML, CSS],
 tools: [React, Node, MongoDB, Styled-Components, Material-ui],
 learning: [React-Native],
 }
